@@ -1,0 +1,4 @@
+[submodule "rennermalm_river_discharge_AK-05-001"]
+	path = rennermalm_river_discharge_AK-05-001
+	url = https://github.com/cryo-data/rennermalm_river_discharge_AK-05-001
+	datalad-id = 5b516fac-eb59-43ad-ad89-d6019445eb72
