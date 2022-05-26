@@ -2,3 +2,7 @@
 	path = rennermalm_river_discharge_AK-05-001
 	url = https://github.com/cryo-data/rennermalm_river_discharge_AK-05-001
 	datalad-id = 5b516fac-eb59-43ad-ad89-d6019445eb72
+[submodule "moon_2008_NSIDC_0642"]
+	path = moon_2008_NSIDC_0642
+	url = https://github.com/cryo-data/moon_2008_NSIDC_0642
+	datalad-id = 1242ba12-90ae-4ac2-ac17-5a4b04f15b3c
