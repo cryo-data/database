@@ -10,3 +10,7 @@
 	path = 10.5067___SLASH___VLJ5YXKCNGXO
 	url = git@github.com:cryo-data/BedMachine_Greenland
 	datalad-id = 5cd956f5-8b38-4d4d-a89b-a94839af2d2f
+[submodule "BedMachine_Greenland"]
+	path = BedMachine_Greenland
+	url = https://github.com/cryo-data/BedMachine_Greenland
+	datalad-id = 5cd956f5-8b38-4d4d-a89b-a94839af2d2f
